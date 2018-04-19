@@ -25,7 +25,7 @@ namespace FirmwareParser.CoreClass
         {
             try
             {
-                StreamReader SwitchFile = new StreamReader(@"Dlink.txt");
+                StreamReader SwitchFile = new StreamReader(@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\Dlink.txt");
                 return SwitchFile;
             }
             catch (FileNotFoundException e)
@@ -72,7 +72,7 @@ namespace FirmwareParser.CoreClass
 
         public string LengthTake(string model)
         {
-            FileInfo fileInfo = new FileInfo(@"httpproj\" + model + ".html");
+            FileInfo fileInfo = new FileInfo(@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\" + model + ".html");
             string filelength = fileInfo.Length.ToString();
             return filelength;
         }
@@ -86,7 +86,7 @@ namespace FirmwareParser.CoreClass
 
         public void CreateHTMLFILE(string model, string HTML)
         {
-            StreamWriter file = new StreamWriter(@"httpproj\" + model + ".html");
+            StreamWriter file = new StreamWriter(@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\" + model + ".html");
             file.WriteLine(HTML);
             file.Close();
         }
@@ -95,7 +95,7 @@ namespace FirmwareParser.CoreClass
         {
             try
             {
-                StreamReader HtmlFile = new StreamReader(@"httpproj\" + model + ".html");
+                StreamReader HtmlFile = new StreamReader(@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\" + model + ".html");
                 return HtmlFile;
             }
             catch (FileNotFoundException e)
@@ -127,7 +127,7 @@ namespace FirmwareParser.CoreClass
 
         public StreamWriter JsonToFile(string manufacturer)
         {
-            StreamWriter File = new StreamWriter(@"httpproj\" + manufacturer + ".json");
+            StreamWriter File = new StreamWriter(@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\" + manufacturer + ".json");
             return File;
         }
     }

@@ -26,7 +26,7 @@ namespace FirmwareParser
             {
                 string htmldownloadedfile = dlinkSwitch.DownloadHTTP(dlinkSwitch.Lineurl(line));
 
-                if (!File.Exists((@"httpproj\" + dlinkSwitch.Linemodel(line) + ".html")))
+                if (!File.Exists((@"C:\Users\Telekom1\source\repos\SwitchUpdater\SwitchUpdater\data\" + dlinkSwitch.Linemodel(line) + ".html")))
                 {
                     dlinkSwitch.CreateHTMLFILE(dlinkSwitch.Linemodel(line), htmldownloadedfile);
 

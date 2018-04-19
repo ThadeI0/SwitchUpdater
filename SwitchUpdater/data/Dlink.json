@@ -1,0 +1,159 @@
+{
+  "UpdTime": "2018-04-19T10:57:12.7661508+03:00",
+  "Manufacturer": "Dlink",
+  "Models": [
+    {
+      "CheckSum": "60891631622201415617913534724448126222103",
+      "Size": "145225",
+      "Model": "DES-1210-10_ME",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1843_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:10",
+      "Firmware": "Программное обеспечение версии 6.10.B048 от 19.03.2018 (для ревизии B1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-1210-10_ME_B1/Firmware/DES-1210-10ME-B1-6-10-B048.hex"
+    },
+    {
+      "CheckSum": "10610757238188815519689832302102111367868",
+      "Size": "168916",
+      "Model": "DES-1210-28_ME",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1617_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Программное обеспечение версии 10.04.B048 от 19.03.2018 (для ревизии B3)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-1210-28_ME_B2/Firmware/DES-1210-28ME-B3-10-04-B048.hex"
+    },
+    {
+      "CheckSum": "19818422210422611320219115925012311621719724",
+      "Size": "46291",
+      "Model": "DES-1228_ME",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1281_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Обновления от 26.04.2016",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-1228_ME/Firmware/DES1228_Run_2_63_B004.had"
+    },
+    {
+      "CheckSum": "1241593910827167742531037330504435223158",
+      "Size": "44706",
+      "Model": "DES-3010G",
+      "ModelUrl": "http://dlink.ru/ru/products/1/519_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": null,
+      "FirmwareUrl": null
+    },
+    {
+      "CheckSum": "111651261697178641956721024533218189143230",
+      "Size": "49042",
+      "Model": "DES-3028",
+      "ModelUrl": "http://dlink.ru/ru/products/1/706_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Программное обеспечение версии 2.94.B18 от 17.01.2018",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3028/Firmware/DES_3028_52_V2.94-B18.had"
+    },
+    {
+      "CheckSum": "2191532401841111261041962305516312723816557129",
+      "Size": "61951",
+      "Model": "DES-3200-10",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1719_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Программное обеспечение версии 4.48.B003 от 16.01.2018 (для ревизии C1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3200-10_C1/Firmware/DES3200_Run_4_48_B003.had"
+    },
+    {
+      "CheckSum": "1671078013323411813322111417191611327413147",
+      "Size": "64946",
+      "Model": "DES-3200-18",
+      "ModelUrl": "http://dlink.ru/ru/products/1/2063_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Программное обеспечение версии 4.48.B003 от 16.01.2018 (для ревизии C1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3200-18/Firmware/DES3200_Run_4_48_B003.had"
+    },
+    {
+      "CheckSum": "17932452051152541781941612514525594229134147",
+      "Size": "55954",
+      "Model": "DES-3200-26",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1350_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:11",
+      "Firmware": "Программное обеспечение версии 1.89.B02 от 16.01.2018 (для ревизии A1/B1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3200-26/Firmware/DES-3200_Runtime_V1.89.B02.had"
+    },
+    {
+      "CheckSum": "18411910919023228881429106243174972995211",
+      "Size": "61954",
+      "Model": "DES-3200-28",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1587_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 4.48.B003 от 16.01.2018 (для ревизии C1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3200-28_C1/Firmware/DES3200_Run_4_48_B003.had"
+    },
+    {
+      "CheckSum": "18714710015920101223202201191143182212406214",
+      "Size": "61983",
+      "Model": "DES-3200-28F",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1840_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 4.48.B003 от 16.01.2018 (для ревизии C1)",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3200-28F_C1/Firmware/DES3200_Run_4_48_B003.had"
+    },
+    {
+      "CheckSum": "951888522918310210319521992238212611022248",
+      "Size": "50294",
+      "Model": "DES-3550",
+      "ModelUrl": "http://dlink.ru/ru/products/1/408_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Бета-версия 6.20b20",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3550/Firmware/DES3550R6_6.20.B20.had"
+    },
+    {
+      "CheckSum": "154186227129381122041166314694245424838119",
+      "Size": "46542",
+      "Model": "DES-3828",
+      "ModelUrl": "http://dlink.ru/ru/products/1/527_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 4.50.B52",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DES-3828/Firmware/DES3852R4_4.50.B52.had"
+    },
+    {
+      "CheckSum": "1951171332131242923570100152851649863177148",
+      "Size": "47428",
+      "Model": "DGS-1500-28",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1582_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 2.51.B022 от 13.04.2018",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DGS-1500-28/Firmware/DGS-1500-28_A2_2_51_B022.hex"
+    },
+    {
+      "CheckSum": "110252217174189127712264989323827125114152",
+      "Size": "44991",
+      "Model": "DGS-3100-48",
+      "ModelUrl": "http://dlink.ru/ru/products/1/723_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": null,
+      "FirmwareUrl": null
+    },
+    {
+      "CheckSum": "16832212541009821712517847322472546519071",
+      "Size": "54603",
+      "Model": "DGS-3120-24SC",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1365_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 3.12.R008 от 25.09.2017",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DGS-3120-24SC/Firmware/DGS3120AX_Run_3_12_R008.had"
+    },
+    {
+      "CheckSum": "6496712111771372301487220613531203255199120",
+      "Size": "54154",
+      "Model": "DGS-3120-48TC",
+      "ModelUrl": "http://dlink.ru/ru/products/1/1408_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": "Программное обеспечение версии 3.12.R008 от 25.09.2017",
+      "FirmwareUrl": "http://ftp.dlink.ru/pub/Switch/DGS-3120-48TC/Firmware/DGS3120AX_Run_3_12_R008.had"
+    },
+    {
+      "CheckSum": "1512211610219317724024456792101432337929",
+      "Size": "44074",
+      "Model": "DGS-3200-10",
+      "ModelUrl": "http://dlink.ru/ru/products/1/769_d.html",
+      "FileUpdateTime": "19.04.2018 10:57:12",
+      "Firmware": null,
+      "FirmwareUrl": null
+    }
+  ]
+}
